@@ -1,6 +1,7 @@
 %syntax-version=1.0.0
 %project=flipr
-%uri=ssh://git@source.iovation.com:7999/~david.wheeler/agile-flipr.git
+%uri=https://github.com/theory/agile-flipr
 
 appschema 2016-01-26T22:47:50Z David E. Wheeler <david.wheeler@iovation.com> # Adds flipr app schema.
 users [appschema] 2016-01-27T00:26:52Z David E. Wheeler <david.wheeler@iovation.com> # Creates table to track our users.
+flips [users appschema] 2019-06-22T13:30:43Z Alexey V. Litvinov <lialsoftlab@yandex.ru> # Add flips table.
