@@ -3,3 +3,4 @@
 %uri=https://github.com/theory/agile-flipr
 
 appschema 2019-06-22T09:49:14Z Alexey V. Litvinov <lialsoftlab@yandex.ru> # Adds flipr app schema.
+users [appschema] 2019-06-22T11:46:37Z Alexey V. Litvinov <lialsoftlab@yandex.ru> # Creates table to track out users.
